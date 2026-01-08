@@ -1,0 +1,7 @@
+{
+  "name": "AurumCast",
+  "description": "A cinematic, AI-powered podcast generator and conversational suite featuring text-to-speech, real-time voice interaction, and intelligent scripting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
